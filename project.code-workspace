@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../OneDrive/Desktop/project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"liveServer.settings.multiRootWorkspaceName": "project"
+	}
+}
